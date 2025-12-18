@@ -1,0 +1,32 @@
+# Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+index.html.bak
+
+# PDF (if too large, optional)
+# pdf/
+
+# Node modules (if any)
+node_modules/
