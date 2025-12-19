@@ -1213,3 +1213,14 @@ margin-bottom: -7px;
 * 13.END FOOTER DESIGN
 * ----------------------------------------------------------------------------------------
 */
+/* Mobile image override for .img-fluid (adjusted for phone screens) */
+@media (max-width: 480px) {
+	.welcome-area .about_me img.img-fluid,
+	.about_me img.img-fluid {
+		max-width: 40% !important;
+		height: auto;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
