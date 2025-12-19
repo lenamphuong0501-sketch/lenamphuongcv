@@ -1217,7 +1217,7 @@ margin-bottom: -7px;
 @media (max-width: 480px) {
 	.welcome-area .about_me img.img-fluid,
 	.about_me img.img-fluid {
-		max-width: 40% !important;
+		max-width: 60% ;
 		height: auto;
 		display: block;
 		margin-left: auto;
