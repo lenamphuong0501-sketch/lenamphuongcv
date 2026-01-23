@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="zxx">
 
 <head>
 	<!-- Meta -->
@@ -7,17 +7,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<meta name="description" data-i18n-meta data-vi="Lê Nam Phương - Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả." data-en="Le Nam Phuong - Key Account MT with a systems and data-driven mindset. Engages partners and manages operations professionally to deliver results." content="Lê Nam Phương - Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả.">
+	<meta name="description" content="Lê Nam Phương - Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả.">
 	<meta name="keywords"
-		content="Lê Nam Phương, Key, Marketing, Portfolio, CV, Resume">
+		content="Lê Nam Phương, Key, Marketing, E-commerce, Portfolio, CV, Resume, Web Developer, Digital Marketing">
 	<meta name="author" content="Lê Nam Phương">
 	
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="">
-	<meta property="og:title" data-i18n-meta data-vi="Lê Nam Phương - Key account MT" data-en="Le Nam Phuong - Key account MT" content="Lê Nam Phương - Key account MT">
-	<meta property="og:description" data-i18n-meta data-vi="Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả." data-en="Key Account MT with a systems and data-driven mindset. Engages partners and manages operations professionally to deliver results." content="Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả.">
-	<meta property="og:image" content="https://lenamphuongcv.vercel.app/assets/img/mee.png">
+	<meta property="og:url" content="https://yourwebsite.com/">
+	<meta property="og:title" content="Lê Nam Phương - Key account MT">
+	<meta property="og:description" content="Key account MT với tư duy hệ thống và dữ liệu. Kết nối với đối tác, quản lý vận hành chuyên nghiệp để tạo ra hiệu quả.">
+	<meta property="og:image" content="https://yourwebsite.com/assets/img/mee.png">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:image:alt" content="Lê Nam Phương - Key account MT">
@@ -26,19 +26,19 @@
 	
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:url" content="https://lenamphuongcv.vercel.app/">
-	<meta name="twitter:title" data-i18n-meta data-vi="Lê Nam Phương - Key account MT" data-en="Le Nam Phuong - Key account MT" content="Lê Nam Phương - Key account MT">
-	<meta name="twitter:description" data-i18n-meta data-vi="Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả." data-en="Key Account MT with a systems and data-driven mindset. Bridging business and technology to deliver effective solutions." content="Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả.">
-	<meta name="twitter:image" content="https://lenamphuongcv.vercel.app/assets/img/mee.png">
+	<meta name="twitter:url" content="https://yourwebsite.com/">
+	<meta name="twitter:title" content="Lê Nam Phương - Key account MT">
+	<meta name="twitter:description" content="Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả.">
+	<meta name="twitter:image" content="https://yourwebsite.com/assets/img/mee.png">
 	<meta name="twitter:image:alt" content="Lê Nam Phương - Key account MT">
 	
 	<!-- Additional Meta Tags -->
 	<meta name="robots" content="index, follow">
 	<meta name="theme-color" content="#2ca46d">
-	<link rel="canonical" href="https://lenamphuongcv.vercel.app/">
+	<link rel="canonical" href="https://yourwebsite.com/">
 	
 	<!-- SITE TITLE -->
-	<title data-i18n data-vi="Lê Nam Phương - Key account MT" data-en="Le Nam Phuong - Key account MT">Lê Nam Phương - Key account MT</title>
+	<title>Lê Nam Phương - Key account MT</title>
 	<!-- Latest Bootstrap min CSS -->
 	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 	<!-- Google Font -->
@@ -301,30 +301,6 @@
 				color: #fff !important;
 			}
 		}
-
-		/* Language Toggle */
-		.lang-switch {
-			display: flex;
-			align-items: center;
-			margin-left: 10px;
-		}
-
-		.lang-toggle {
-			border: 1px solid #2ca46d;
-			background: transparent;
-			color: #1d293e;
-			padding: 6px 12px;
-			border-radius: 20px;
-			font-size: 12px;
-			font-weight: 600;
-			letter-spacing: 0.5px;
-			transition: all 0.3s ease;
-		}
-
-		.lang-toggle:hover {
-			background: #2ca46d;
-			color: #fff;
-		}
 	</style>
 
 </head>
@@ -353,14 +329,13 @@
 					<div class="header_right">
 						<nav id="main-menu" class="ml-auto">
 							<ul>
-								<li><a href="#home" data-i18n data-vi="Trang chủ" data-en="Home">Trang chủ</a></li>
-								<li><a href="#about" data-i18n data-vi="Về bản thân" data-en="About">Về bản thân</a></li>
-								<li><a href="#skills" data-i18n data-vi="Kỹ năng" data-en="Skills">Kỹ năng</a></li>
-								<li><a href="#resume" data-i18n data-vi="Kinh nghiệm làm việc" data-en="Experience">Kinh nghiệm làm việc</a></li>
-								<li><a href="#contact" data-i18n data-vi="Liên hệ" data-en="Contact">Liên hệ</a></li>
-								<li><a href="https://drive.google.com/file/d/1xPfZk14kkwt3T-iOCCrosyBxx7KlZbXN/view?usp=sharing" target="_blank" data-i18n data-vi="Xem CV" data-en="View CV">Xem CV</a>
+								<li><a href="#home">Trang chủ</a></li>
+								<li><a href="#about">Về bản thân</a></li>
+								<li><a href="#skills">Kỹ năng</a></li>
+								<li><a href="#resume">Kinh nghiệm làm việc</a></li>
+								<li><a href="#contact">Liên hệ</a></li>
+								<li><a href="https://drive.google.com/file/d/1ll4LZz8z9GkjpITlvApmZtQ1yhg_efz0/view?usp=sharing" target="_blank">Xem CV</a>
 								</li>
-								<li class="lang-switch"><button id="langToggle" type="button" class="lang-toggle">EN</button></li>
 							</ul>
 						</nav>
 						<div id="mobile_menu"></div>
@@ -384,12 +359,12 @@
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.1s"
 					data-wow-offset="0">
 					<div class="about_me_title">
-						<span data-i18n data-vi="Xin chào!" data-en="Hello!">Xin chào!</span>
+						<span>Hello There!</span>
 						<h1>Lê Nam Phương</h1>
-						<h4 data-i18n data-vi="Key Account MT" data-en="Key Account MT">Key Account MT</h4>
+						<h4>Key Account MT</h4>
 					</div>
 					<div class="profile_info">
-						<span data-i18n data-i18n-mode="html" data-vi="<i class=\"fa fa-map-marker\"></i> Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh" data-en="<i class=\"fa fa-map-marker\"></i> Tan Son Nhi Ward, Ho Chi Minh City"><i class="fa fa-map-marker"></i> Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh</span>
+						<span><i class="fa fa-map-marker"></i> Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh</span>
 						<span><i class="fa fa-phone"></i> +84 3333 719 804</span>
 						<span><i class="fa fa-envelope"></i> lenamphuong0501@gmail.com</span>
 						
@@ -408,11 +383,13 @@
 				<div class="col-lg-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s"
 					data-wow-offset="0">
 					<div class="about_content">
-						<h1 data-i18n data-vi="Về bản thân" data-en="About me">Về bản thân</h1>
+						<h1>Về bản thân</h1>
 						<!--PDF_CONTENT_START-->
-						<p data-i18n data-i18n-mode="html" data-vi="Lê Nam Phương<br/>Nhân viên kinh doanh<br/>Mục Tiêu Nghề Nghiệp<br/>Là người cầu tiến, kiên trì và luôn nỗ lực trong công việc. Tôi mong muốn mang lại nhiều giá trị cho công ty và khách hàng. Đồng thời với kỹ năng và kinh nghiệm của mình, tôi tin rằng mình có thể hoàn thành các chỉ tiêu của công ty." data-en="Le Nam Phuong<br/>Sales Executive<br/>Career Objective<br/>A proactive and persistent professional committed to delivering value for the company and customers. With my skills and experience, I am confident I can achieve the company’s targets.">Lê Nam Phương<br/>Nhân viên kinh doanh<br/>Mục Tiêu Nghề Nghiệp<br/>Là người cầu tiến, kiên trì và luôn nỗ lực trong công việc. Tôi mong muốn mang lại nhiều giá trị cho công ty và khách hàng. Đồng thời với kỹ năng và kinh nghiệm của mình, tôi tin rằng mình có thể hoàn thành các chỉ tiêu của công ty.</p>
-						<a href="pdf/Le-Nam-Phuong.pdf" download="Le-Nam-Phuong.pdf" data-i18n data-i18n-mode="html" data-vi="Tải CV <i class=\"fa fa-download\"></i>" data-en="Download CV <i class=\"fa fa-download\"></i>">Tải CV <i
-									class="fa fa-download"></i></a>
+<p>LLêê NNaamm PPhhưươơnngg<br/>NHÂN VIÊN KINH DOANH<br/>Mục Tiêu Nghề Nghiệp<br/>Là người cầu tiến, kiên trì và luôn nỗ lực trong công việc. Tôi mong muốn mang lại nhiều giá trị<br/>cho công ty và khách hàng. Đồng thời với các mối quan hệ của mình, tôi tin rằng mình có thể<br/>hoàn thành các chỉ tiêu của công ty.<br/> Học Vấn<br/>ĐẠI HỌC MỞ THÀNH PHỐ HỒ CHÍ MINH 09/2013 - 04/2018<br/>Quản trị Kinh Doanh<br/>Loại tốt nghiệp: Trung bình<br/> 05/01/1989<br/> Nam<br/> Kinh Nghiệm Làm Việc<br/> 0333719804<br/>CÔNG TY TNHH VIỆT LIÊN 05/2023 - HIỆN TẠI<br/> lenamphuong0501@gmail.co<br/>Vị trí : Key account<br/>m<br/>-Xây dựng-duy trì mối quan hệ với các khách hàng:<br/> A0506- 1648 Võ Văn Kiệt ,<br/>-Phát triển các chiến lược kinh doanh cho đội ngũ, phân tích, triển khai, báo cáo hiệu quả từng<br/>Phường 16, Quận 8, Thành<br/>chiến lược cụ thể .<br/>phố Hồ Chí Minh<br/>-Đàm phán hợp đồng, thương lượng giá cả, các điệu kiện , chính sách trong hợp đồng.<br/>-Điều phối các hoạt động nội bộ : Admin- kho vận - nhân viên thị trường- khách hàng, đảm bảo<br/>hoạt động vận hành.<br/>KỸ NĂNG<br/>-Lên kế hoạch chào hàng, chuẩn bị hồ sơ liên quan.<br/>-Quản lý nhân viên thị trường : Sale , PG ..<br/>-Theo dõi, phân tích thị trường và đối thủ, nắm rõ xu hướng để có các biện pháp thay đổi, cải Tin học văn phòng<br/>thiện vị thế cạnh tranh của công ty.<br/>Tiếng Anh<br/>CÔNG TY TNHH KOHNAN VIET NAM 09/2020 - 5/2023 SỞ THÍCH<br/>Vị trí : Sale Senior<br/>Giám sát Quầy Bánh Kẹo Kohnan Lê Thánh Tôn Đọc sách<br/>Sữa chữa<br/>Quản lý Vận hành &amp; Trưng bày: Giám sát hoạt động quầy bánh kẹo, đảm bảo hàng hóa luôn đầy<br/>đủ, sắp xếp ngăn nắp, trưng bày hấp dẫn theo layout và chương trình khuyến mãi hàng tháng.<br/>Đảm bảo đầy đủ nhãn mác và giá bán chính xác.<br/>Kiểm soát Hàng tồn &amp; Đặt hàng: Lên đơn hàng, theo dõi tiến độ và xử lý phát sinh; thực hiện<br/>kiểm tra tồn kho và luân chuyển hàng hóa (hạn sử dụng), chủ động đề xuất khuyến mãi hoặc<br/>đổi trả hàng cận date để giảm thiểu thất thoát.<br/>Đạt Mục tiêu Kinh doanh: Theo dõi doanh số bán hàng, lập kế hoạch đặt hàng và trưng bày ưu<br/>tiên cho các mặt hàng bán chạy.<br/>Phối hợp thực hiện hiệu quả các chương trình khuyến mãi để đạt mục tiêu doanh số đề ra.<br/>Giám sát Nhân sự &amp; Dịch vụ: Hướng dẫn và điều phối nhân viên quầy, đảm bảo tuân thủ quy<br/>trình và cung cấp dịch vụ khách hàng chuyên nghiệp, giải quyết các thắc mắc về sản phẩm.<br/>CÔNG TY TNHH ROMEA 01/2017 - 03/2018<br/>Giám sát bán hàng.</p>
+<p>-Hỗ trợ nhân viên, khách hàng trong khu vực quản lý.<br/>-Kiểm tra khu vực phụ trách , đảm bảo nhân viên, vệ sinh, thiết bị đầy đủ và hoạt động tốt.<br/>-Kết nối nhân viên các gian hàng với công ty, thông báo quy định của trung tâm, chương trình<br/>khuyến mãi cho nhân viên, phản hồi của khách hàng với công ty.<br/>-Theo dõi thi công lắp đặt gian hàng, liên hệ, hỗ trợ đối tác thi công gian hàng đúng quy định<br/>của công ty.<br/>- Quảng bá sản phẩm thông qua các ấn phẩm truyền thông: banner, poster, tờ rơi...<br/>- Lập báo cáo sản lượng bán ra hàng ngày.<br/>CÔNG TY TNHH PARKSON VIET NAM 04/2013 - 10/2016<br/>Giám sát bán hàng/Nhân viên kho/Nhân viên thu ngân.<br/>Học các quy trình và cách xử lý vấn đề ở từng vị trí khác nhau.<br/>-Luôn đảm bảo thực hiện tốt các nhiệm vụ được giao ở từng vị trí.<br/>© topcv.vn</p>
+<!--PDF_CONTENT_END-->
+						<a href="pdf/Le-Nam-Phuong.pdf" download="Le-Nam-Phuong.pdf">Download CV <i
+								class="fa fa-download"></i></a>
 					</div>
 				</div><!-- END COL -->
 				<div class="col-lg-6 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s"
@@ -430,26 +407,26 @@
 	<section id="service" class="service-area section-padding">
 		<div class="container">
 			<div class="section-title">
-				<h1 data-i18n data-vi="Giá trị mang lại" data-en="Value delivered">Giá trị mang lại</h1>
+				<h1>Giá trị mang lại</h1>
 			</div>
 			<div class="row">
 				<div class="col-lg-12 col-sm-12 col-xs-12">
 					<div id="sp-slider" class="owl-carousel">
 						<div class="service_content">
 							<span class="ti-light-bulb"></span>
-							<h4 data-i18n data-vi="Giám sát bán hàng" data-en="Sales Supervision">Giám sát bán hàng</h4>
-							<p data-i18n data-vi="Chào hàng, xây dựng đội ngũ, sử dụng các công cụ hỗ trợ công việc (quản lý dữ liệu, báo cáo, tự động hoá tác vụ)." data-en="Sales outreach, team development, and leveraging work-support tools (data management, reporting, task automation).">Chào hàng, xây dựng đội ngũ, sử dụng các công cụ hỗ trợ công việc (quản lý dữ liệu, báo cáo, tự động hoá tác vụ).</p>
+							<h4>Giám sát bán hàng</h4>
+							<p>Xây dựng công cụ hỗ trợ công việc (quản lý dữ liệu, báo cáo, tự động hoá tác vụ).</p>
 						</div>
 						<div class="service_content">
 							<span class="ti-medall"></span>
-							<h4 data-i18n data-vi="Marketing" data-en="Marketing">Marketing</h4>
-							<p data-i18n data-vi="Lên kế hoạch chiến dịch, quản lý và tối ưu hiệu quả dựa trên số liệu." data-en="Plan campaigns, manage execution, and optimize performance based on data.">Lên kế hoạch chiến dịch, quản lý và tối ưu hiệu quả dựa trên số liệu.
+							<h4>Marketing</h4>
+							<p>Lên kế hoạch chiến dịch, quản lý và tối ưu hiệu quả dựa trên số liệu.
 							</p>
 						</div>
 						<div class="service_content">
 							<span class="ti-signal"></span>
-							<h4 data-i18n data-vi="Vận hành MT" data-en="MT Operations">Vận hành MT</h4>
-							<p data-i18n data-vi="quản lý và vận hành đội ngũ bán hàng khắp các khu vực đảm bảo hiệu quả công việc." data-en="Manage and operate sales teams across regions to ensure operational effectiveness.">quản lý và vận hành đội ngũ bán hàng khắp các khu vực đảm bảo hiệu quả công việc.</p>
+							<h4>Vận hành MT</h4>
+							<p> quản lý và vận hành đội ngũ bán hàng khắp các khu vực đảm bảo hiệu quả công việc.</p>
 						</div>
 						
 					
@@ -466,7 +443,7 @@
 	<section id="skills" class="about-area section-padding">
 		<div class="container">
 			<div class="section-title">
-				<h1 data-i18n data-vi="Kỹ năng" data-en="Skills">Kỹ năng</h1>
+				<h1>Kỹ năng</h1>
 			</div>
 			<div class="row text-center">
 				<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.1s"
@@ -520,7 +497,7 @@
 							<!-- knob plug-in syntax -->
 							<input class="skill-knob" value="0" data-end="40">
 							<!-- heading -->
-							<h4>JavaScript</h4>
+							<h4>Javascript</h4>
 						</div>
 					</div>
 				</div><!-- END COL -->
@@ -561,7 +538,7 @@
 	<section id="resume" class="timeline-area section-padding">
 		<div class="container">
 			<div class="section-title">
-				<h1 data-i18n data-vi="Học vấn và kinh nghiệm của tôi" data-en="Education and experience">Học vấn và kinh nghiệm của tôi</h1>
+				<h1>Học vấn và kinh nghiệm của tôi</h1>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"
@@ -569,56 +546,125 @@
 					<div class="single_timeline">
 						<div class="timeline-header" onclick="toggleTimeline(this)">
 							<div class="timeline-title">
-								<h4 data-i18n data-vi="Giám sát bán hàng" data-en="Sales Supervisor">Giám sát bán hàng</h4>
+								<h4> Giám sát bán hàng</h4>
 								<span class="active_year">06/2013</span>
-								<span class="active_company" data-i18n data-vi="- Công ty TNHH Parkson Việt Nam" data-en="- Parkson Vietnam Co., Ltd.">- Công ty TNHH Parkson Việt Nam</span>
+								<span class="active_company">- Công ty TNHH Parkson Việt Nam</span>
 							</div>
 							<i class="fa fa-chevron-down timeline-arrow"></i>
 						</div>
 						<div class="Giám sát bán hàng">
-							<p data-i18n data-vi="Tập trung vào giám sát bán hàng và quản lý khách hàng. Dựa vào số liệu từ hệ thống, tôi có thể đưa ra các giải pháp để tăng doanh số và hiệu quả công việc." data-en="Focused on sales supervision and customer management. Using system data, I proposed solutions to improve sales and operational efficiency.">Tập trung vào giám sát bán hàng và quản lý khách hàng. Dựa vào số liệu từ hệ thống, tôi có thể đưa ra các giải pháp để tăng doanh số và hiệu quả công việc.</p>
+							<p>Tập trung vào giám sát bán hàng và quản lý khách hàng. Dựa vào số liệu từ hệ thống, tôi có thể đưa ra các giải pháp để tăng doanh số và hiệu quả công việc.</p>
 							<div class="">
-								<p><strong data-i18n data-vi="Phụ trách:" data-en="Responsibilities:">Phụ trách:</strong> <span data-i18n data-vi="Quản lý cửa hàng trong khu vực được giao, đồng thời quản lý bán hàng 2 gian hàng thời trang" data-en="Managed stores in the assigned area and oversaw sales for two fashion kiosks.">Quản lý cửa hàng trong khu vực được giao, đồng thời quản lý bán hàng 2 gian hàng thời trang</span></p>
+								<p><strong>Phụ trách:</strong> Quản lý cửa hàng trong khu vực được giao, đồng thời quản lý bán hàng 2 gian hàng thời trang </p>
+								
+								</p>
 							</div>
 						</div>
 					</div>
-					
-					
+					<div class="single_timeline">
+						<div class="timeline-header" onclick="toggleTimeline(this)">
+							<div class="timeline-title">
+								<h4>Chứng chỉ & Khóa học Vinalink</h4>
+								<span class="active_year">2023</span>
+								<span class="active_company">- Digital Marketing / Content Marketing / Data
+									Analyst.</span>
+							</div>
+							<i class="fa fa-chevron-down timeline-arrow"></i>
+						</div>
+						<div class="timeline-content">
+							<p>Hoàn thành các khóa học về tư duy marketing, triển khai nội dung và phân tích dữ liệu.
+								Ứng dụng vào thực tế công việc Ecommerce: nghiên cứu thị trường, tối ưu nội dung, theo
+								dõi chỉ số và cải thiện hiệu quả chiến dịch.</p>
+							<div class="timeline-details">
+								<p><strong>Chứng chỉ đã đạt:</strong> Digital Marketing Fundamentals, Content Marketing
+									Strategy, Data Analysis with Excel/Python</p>
+								<p><strong>Kỹ năng học được:</strong> SEO, Social Media Marketing, Google Analytics, A/B
+									Testing</p>
+							</div>
+						</div>
+					</div>
+					<div class="single_timeline">
+						<div class="timeline-header" onclick="toggleTimeline(this)">
+							<div class="timeline-title">
+								<h4>Công ty TNHH Việt Liên </h4>
+								<span class="active_year">06/2024 - Hiện tại (đang làm)</span>
+								<span class="active_company">- Digital Marketing (E-commerce).</span>
+							</div>
+							<i class="fa fa-chevron-down timeline-arrow"></i>
+						</div>
+						<div class="timeline-content">
+							<p>Thực hiện khảo sát và tổng hợp thông tin thị trường, phân tích insight khách hàng và đối
+								thủ để đề xuất hướng nội dung/triển khai bán hàng. Hỗ trợ hoạt động marketing và phối
+								hợp chăm sóc khách hàng nhằm tăng mức độ tin tưởng và hiệu quả vận hành.</p>
+							<div class="timeline-details">
+								<p><strong>- </strong> Lập kế hoạch tăng trưởng doanh thu TMĐT theo tháng/quý: sản phẩm
+									chủ lực, giá bán, combo, ưu đãi, lịch campaign theo mùa (sale day, mega campaign)
+								</p><br>
+
+								<p><strong>- </strong> Xây dựng phễu chuyển đổi cho E-commerce: kéo traffic → tối ưu nội
+									dung trang sản phẩm → tăng add-to-cart → cải thiện tỉ lệ chốt đơn</p><br>
+
+								<p><strong>- </strong> Triển khai và tối ưu quảng cáo đa kênh (Meta/Google/TikTok):
+									setup chiến dịch, target, ngân sách, tối ưu theo KPI (ROAS/CPA/CVR/CTR/AOV)</p><br>
+
+								<p><strong>- </strong> Vận hành KOC/KOL/Affiliate: tìm đối tác phù hợp, chuẩn bị brief,
+									guideline nội dung, theo dõi lịch đăng, đo hiệu quả theo link/mã giảm giá và tối ưu
+									cho các đợt sau</p><br>
+
+								<p><strong>- </strong> Phân tích hiệu suất chiến dịch: theo dõi chỉ số, phân tích từng
+									chiến dịch/sản phẩm, đề xuất cải thiện tối ưu cho các đợt sau</p>
+
+								<p><strong>-</strong> Thiết lập đo lường & báo cáo: GA4, Pixel, GTM, UTM, dashboard
+									theo ngày/tuần/tháng; đọc số liệu và đề xuất hành động tối ưu</p>
+
+								<p><strong>-</strong> Phối hợp với vận hành/sales/CSKH: kiểm soát tồn kho, chương trình giá, SLA
+								giao hàng, xử lý phản hồi để giảm hủy/hoàn và tăng điểm shop</p>
+								
+								<p><strong>- </strong> Kiểm soát chính sách sàn & chính sách quảng cáo: rà soát nội dung/hình ảnh/claim sản phẩm, hạn chế vi phạm gây gỡ sản phẩm hoặc tắt quảng cáo</p>
+							</div>
+
+						</div>
+					</div>
 				</div><!--END COL -->
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s"
 					data-wow-offset="0">
 					<div class="single_timeline">
 						<div class="timeline-header" onclick="toggleTimeline(this)">
 							<div class="timeline-title">
-								<h4 data-i18n data-vi="Giám sát bán hàng" data-en="Sales Supervisor">Giám sát bán hàng</h4>
+								<h4>giám sát bán hàng</h4>
 								<span class="active_year">09/2020</span>
-								<span class="active_company" data-i18n data-vi="- Công ty TNHH Kohnan Việt nam." data-en="- Kohnan Vietnam Co., Ltd.">- Công ty TNHH Kohnan Việt nam.</span>
+								<span class="active_company">- Công ty TNHH Kohnan Việt nam.</span>
 							</div>
 							<i class="fa fa-chevron-down timeline-arrow"></i>
 						</div>
 						<div class="timeline-content">
-							<p data-i18n data-vi="Quản lý giám sát quầy bánh kẹo, đồ uống và các sản phẩm khác trong cửa hàng. Tổng hợp số liệu bán hàng, phân tích từng sản phẩm và đưa ra các giải pháp để tăng doanh số bán hàng." data-en="Supervised confectionery, beverages, and other product counters in the store. Consolidated sales data, analyzed each product, and proposed solutions to boost sales.">Quản lý giám sát quầy bánh kẹo, đồ uống và các sản phẩm khác trong cửa hàng. Tổng hợp số liệu bán hàng, phân tích từng sản phẩm và đưa ra các giải pháp để tăng doanh số bán hàng.</p>
+							<p>Quản lý giám sát quầy bánh kẹo, đồ uống và các sản phẩm khác trong cửa hàng. Tổng hợp số liệu bán hàng, phân tích từng sản phẩm và đưa ra các giải pháp để tăng doanh số bán hàng.</p>
 							<div class="timeline-details">
-								<p><strong data-i18n data-vi="Trách nhiệm:" data-en="Responsibilities:">Trách nhiệm:</strong> <span data-i18n data-vi="Tuân thủ các hướng dẫn của công ty, lập kế hoạch, quản lý nhân viên, phân tích số liệu bán hàng hiệu quả bán hàng" data-en="Complied with company guidelines, planned, managed staff, and analyzed sales performance.">Tuân thủ các hướng dẫn của công ty, lập kế hoạch, quản lý nhân viên, phân tích số liệu bán hàng hiệu quả bán hàng</span></p>
-								<p><strong data-i18n data-vi="Thành tựu:" data-en="Achievements:">Thành tựu:</strong> <span data-i18n data-vi="Doanh số thường xuyên đạt từ 86% đến 95% chỉ tiêu đề ra." data-en="Sales regularly achieved 86%–95% of the targets.">Doanh số thường xuyên đạt từ 86% đến 95% chỉ tiêu đề ra.</span></p>
+								<p><strong>Trách nhiệm:</strong> Lập kế hoạch, quản lý nhân viên, phân tích số liệu bán hàng
+									hiệu quả bán hàng</p>
+								<p><strong>Thành tựu:</strong> Social listening: theo dõi đề cập thương hiệu đa nền tảng, phản hồi bình luận/nhận xét đúng ngữ cảnh
+								</p>
 							</div>
 						</div>
 					</div>
 					<div class="single_timeline">
 						<div class="timeline-header" onclick="toggleTimeline(this)">
 							<div class="timeline-title">
-								<h4 data-i18n data-vi="Công ty TNHH Việt Liên" data-en="Viet Lien Co., Ltd.">Công ty TNHH Việt Liên</h4>
-								<span class="active_year">05/2023</span>
-								<span class="active_company" data-i18n data-vi="- Key account." data-en="- Key Account.">- Key account.</span>
+								<h4>Công ty TNHH Shopee (Freelancer)</h4>
+								<span class="active_year">06/2024</span>
+								<span class="active_company">- Data Analyst Seller.</span>
 							</div>
 							<i class="fa fa-chevron-down timeline-arrow"></i>
 						</div>
 						<div class="timeline-content">
-							<p data-i18n data-vi="Chào hàng vào siêu thị, triển khai các chương trình khuyến mãi, hỗ trợ nhân viên bán hàng và theo dõi hiệu suất bán hàng tại các điểm bán." data-en="Onboarded products in supermarkets, executed promotions, supported sales staff, and monitored performance at points of sale.">Chào hàng vào siêu thị, triển khai các chương trình khuyến mãi, hỗ trợ nhân viên bán hàng và theo dõi hiệu suất bán hàng tại các điểm bán.</p>
+							<p>Hỗ trợ phân tích hiệu suất người bán dựa trên dữ liệu vận hành và chỉ số kinh doanh.
+								Chuẩn hóa dữ liệu, thiết kế báo cáo theo mục tiêu dự án và theo dõi biến động chỉ số để
+								đề xuất hướng tối ưu quy trình. Tất cả nội dung phân tích, dữ liệu và kết quả chi tiết
+								thuộc phạm vi bảo mật nên chỉ trình bày ở mức mô tả năng lực và trách nhiệm.</p>
 							<div class="timeline-details">
-								<p><strong data-i18n data-vi="Công cụ sử dụng:" data-en="Tools used:">Công cụ sử dụng:</strong> Excel, Python, Power BI</p>
-								<p><strong data-i18n data-vi="Phương pháp:" data-en="Methods:">Phương pháp:</strong> <span data-i18n data-vi="Phân tích xu hướng, dự báo, Dashboard reporting" data-en="Trend analysis, forecasting, dashboard reporting">Phân tích xu hướng, dự báo, Dashboard reporting</span></p>
-									<p><strong data-i18n data-vi="Hệ thống phụ trách:" data-en="Accounts managed:">Hệ thống phụ trách:</strong> <span data-i18n data-vi="Siêu thị Coopmart, BigC, Lotte Mart, Aeon Mall, Emart , MM Market ..." data-en="Co.opmart, Big C, Lotte Mart, Aeon Mall, Emart, MM Market...">Siêu thị Coopmart, BigC, Lotte Mart, Aeon Mall, Emart , MM Market ...</span></p>
+								<p><strong>Công cụ sử dụng:</strong> Excel, Python, SQL, Data Visualization Tools</p>
+								<p><strong>Phương pháp:</strong> Phân tích xu hướng, dự báo, A/B testing, Dashboard
+									reporting</p>
 							</div>
 						</div>
 					</div>
@@ -651,7 +697,7 @@
 	<section id="contact" class="contact-area section-padding">
 		<div class="container">
 			<div class="section-title">
-				<h1 data-i18n data-vi="Liên hệ" data-en="Get in Touch">Liên hệ</h1>
+				<h1>Get in Touch</h1>
 			</div>
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s"
@@ -662,27 +708,23 @@
 							<div class="row">
 								<div class="form-group col-md-4">
 									<input type="text" name="name" id="name" class="form-control" placeholder="Name"
-										data-i18n-placeholder data-vi-placeholder="Họ và tên" data-en-placeholder="Name"
 										required="required">
 								</div>
 								<div class="form-group col-md-4">
 									<input type="email" name="email" id="email" class="form-control" placeholder="Email"
-										data-i18n-placeholder data-vi-placeholder="Email" data-en-placeholder="Email"
 										required="required">
 								</div>
 								<div class="form-group col-md-4">
 									<input type="text" name="subject" id="subject" class="form-control" placeholder="Subject"
-										data-i18n-placeholder data-vi-placeholder="Tiêu đề" data-en-placeholder="Subject"
 										required="required">
 								</div>
 								<div class="form-group col-md-12">
 									<textarea rows="6" name="message" id="message" class="form-control" placeholder="Your Message"
-										data-i18n-placeholder data-vi-placeholder="Nội dung" data-en-placeholder="Your Message"
 										required="required"></textarea>
 								</div>
 								<div class="col-md-12 text-center">
 									<button type="submit" value="Send message" name="submit" id="submitButton"
-										class="btn btn-contact-bg" title="Submit Your Message!" data-i18n data-vi="Gửi tin nhắn" data-en="Send Message" data-i18n-title data-vi-title="Gửi tin nhắn của bạn!" data-en-title="Submit your message">Gửi tin nhắn</button>
+										class="btn btn-contact-bg" title="Submit Your Message!">Send Message</button>
 								</div>
 							</div>
 						</form>
@@ -701,12 +743,12 @@
 					<div class="address">
 						<h2>Lê Nam Phương</h2>
 						<h1>+84 333 719 804</h1>
-						<h3 data-i18n data-vi="Quận Tân Phú, Hồ Chí Minh" data-en="Tan Phu District, Ho Chi Minh City">Quận Tân Phú, Hồ Chí Minh</h3>
+						<h3>Quận Tân Phú, Hồ Chí Minh</h3>
 					</div>
 				</div><!-- END COL  -->
 				<div class="col-lg-6 col-sm-12 col-xs-12 no-padding">
 					<div class="map">
-						<<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d415.922981363666!2d106.61527035372764!3d10.80843904611887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752bef10d32311%3A0x3d672ea2ba3b53d2!2zMjAgxJAuIELhu50gQmFvIDEsIFPGoW4gS-G7sywgVMOibiBQaMO6LCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmggNzYwMDAwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1766049615743!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.804083811448!2d106.72537867590574!3d10.749577459686638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317525281c2ef781%3A0x22ce3330f29d213a!2zMTcvNCBUw6JuIFRodeG6rW4gVMOieSwgUXXhuq1uIDcsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmlldG5hbQ!5e0!3m2!1sen!2s!4v1765945801628!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 				</div><!-- END COL  -->
 			</div><!-- END ROW -->
@@ -723,7 +765,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="footer_widget">
 						
-						<p data-i18n data-vi="Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả." data-en="Key Account MT with a systems and data-driven mindset. Bridging business and technology to deliver effective solutions.">Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả.</p>
+						<p>Key account MT với tư duy hệ thống và dữ liệu. Kết nối giữa kinh doanh và kỹ thuật để tạo ra giải pháp hiệu quả.</p>
 						
 					</div>
 				</div><!-- END COL -->
@@ -731,13 +773,13 @@
 				<!-- Quick Links Section -->
 				<div class="col-lg-2 col-md-6 col-sm-12 col-xs-12">
 					<div class="footer_widget">
-						<h4 data-i18n data-vi="Điều hướng" data-en="Navigation">Điều hướng</h4>
+						<h4>Điều hướng</h4>
 						<ul class="footer_menu">
-							<li><a href="#home" data-i18n data-vi="Trang chủ" data-en="Home">Trang chủ</a></li>
-							<li><a href="#about" data-i18n data-vi="Về bản thân" data-en="About">Về bản thân</a></li>
-							<li><a href="#skills" data-i18n data-vi="Kỹ năng" data-en="Skills">Kỹ năng</a></li>
-							<li><a href="#resume" data-i18n data-vi="Kinh nghiệm" data-en="Experience">Kinh nghiệm</a></li>
-							<li><a href="#contact" data-i18n data-vi="Liên hệ" data-en="Contact">Liên hệ</a></li>
+							<li><a href="#home">Trang chủ</a></li>
+							<li><a href="#about">Về bản thân</a></li>
+							<li><a href="#skills">Kỹ năng</a></li>
+							<li><a href="#resume">Kinh nghiệm</a></li>
+							<li><a href="#contact">Liên hệ</a></li>
 						</ul>
 					</div>
 				</div><!-- END COL -->
@@ -745,11 +787,11 @@
 				<!-- Contact Info Section -->
 				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
 					<div class="footer_widget">
-						<h4 data-i18n data-vi="Liên hệ" data-en="Contact">Liên hệ</h4>
+						<h4>Liên hệ</h4>
 						<ul class="footer_contact">
-							<li><i class="fa fa-map-marker"></i> <a data-i18n data-vi="Quận Tân Phú, Hồ Chí Minh, Việt Nam" data-en="Tan Phu District, Ho Chi Minh City, Vietnam">Quận Tân Phú, Hồ Chí Minh, Việt Nam</a></li>
-							<li><i class="fa fa-phone"></i> <a href="tel:+84353110711">+84 333 719 804</a></li>
-							<li><i class="fa fa-envelope"></i> <a href="mailto:lenamphuong0501@gmail.com">lenamphuong0501@gmail.com</a></li>
+							<li><i class="fa fa-map-marker"></i> <a>Quận 7, Hồ Chí Minh, Việt Nam</a></li>
+							<li><i class="fa fa-phone"></i> <a href="tel:+84353110711">+84 353 110 711</a></li>
+							<li><i class="fa fa-envelope"></i> <a href="mailto:nguyenthanhphatdeveloper@gmail.com">nguyenthanhphatdeveloper@gmail.com</a></li>
 						</ul>
 					</div>
 				</div><!-- END COL -->
@@ -757,13 +799,13 @@
 				<!-- Services/Value Section -->
 				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
 					<div class="footer_widget">
-						<h4 data-i18n data-vi="Dịch vụ" data-en="Services">Dịch vụ</h4>
+						<h4>Dịch vụ</h4>
 						<ul class="footer_menu">
-							<li><a href="#service" data-i18n data-vi="Key Account" data-en="Key Account">Key Account</a></li>
-							<li><a href="#service" data-i18n data-vi="Giám sát" data-en="Supervisor">Giám sát</a></li>
-							<li><a href="#service" data-i18n data-vi="Bán hàng" data-en="Sales">Bán hàng</a></li>
-							<li><a href="#service" data-i18n data-vi="Marketing" data-en="Marketing">Marketing</a></li>
-							<li><a href="pdf/Le-Nam-Phuong.pdf" target="_blank" data-i18n data-vi="Tải CV" data-en="Download CV">Tải CV</a></li>
+							<li><a href="#service">Development</a></li>
+							<li><a href="#service">Marketing</a></li>
+							<li><a href="#service">Design</a></li>
+							<li><a href="#service">AI Agent</a></li>
+							<li><a href="pdf/Nguyen-Thanh-Phat.pdf" target="_blank">Download CV</a></li>
 						</ul>
 					</div>
 				</div><!-- END COL -->
@@ -775,10 +817,10 @@
 					<div class="footer_bottom">
 						<div class="row">
 							<div class="col-lg-6 col-sm-6 col-xs-12">
-								<p><span data-i18n data-i18n-mode="html" data-vi="© <span class=\"copyright-year\"></span> Lê Nam Phương. Đã đăng ký bản quyền." data-en="© <span class=\"copyright-year\"></span> Le Nam Phuong. All rights reserved.">© <span class="copyright-year"></span> Lê Nam Phương. All rights reserved.</span></p>
+								<p>&copy; <script>document.write(new Date().getFullYear());</script> Lê Nam Phương. All rights reserved.</p>
 							</div>
 							<div class="col-lg-6 col-sm-6 col-xs-12 text-right">
-								<p data-i18n data-vi="Được tạo với <i class=\"fa fa-heart\" style=\"color: #e74c3c;\"></i> tại TP. Hồ Chí Minh" data-en="Made with <i class=\"fa fa-heart\" style=\"color: #e74c3c;\"></i> in Ho Chi Minh City" data-i18n-mode="html">Made with <i class="fa fa-heart" style="color: #e74c3c;"></i> in Ho Chi Minh City</p>
+								<p>Made with <i class="fa fa-heart" style="color: #e74c3c;"></i> in Ho Chi Minh City</p>
 							</div>
 						</div>
 					</div>
@@ -858,89 +900,6 @@
 				});
 			}, 100);
 		});
-	</script>
-	<!-- Language Toggle Script -->
-	<script>
-		(function() {
-			var defaultLang = 'vi';
-			var currentLang = localStorage.getItem('siteLang') || defaultLang;
-
-			function setYear() {
-				var year = new Date().getFullYear();
-				document.querySelectorAll('.copyright-year').forEach(function(el) {
-					el.textContent = year;
-				});
-			}
-
-			function setText(el, text, mode) {
-				if (mode === 'html') {
-					el.innerHTML = text;
-				} else {
-					el.textContent = text;
-				}
-			}
-
-			function applyLang(lang) {
-				document.documentElement.setAttribute('lang', lang);
-
-				document.querySelectorAll('[data-i18n]').forEach(function(el) {
-					var text = el.getAttribute('data-' + lang);
-					if (text !== null) {
-						var mode = el.getAttribute('data-i18n-mode');
-						setText(el, text, mode);
-					}
-				});
-
-				document.querySelectorAll('[data-i18n-placeholder]').forEach(function(el) {
-					var text = el.getAttribute('data-' + lang + '-placeholder');
-					if (text !== null) {
-						el.setAttribute('placeholder', text);
-					}
-				});
-
-				document.querySelectorAll('[data-i18n-title]').forEach(function(el) {
-					var text = el.getAttribute('data-' + lang + '-title');
-					if (text !== null) {
-						el.setAttribute('title', text);
-					}
-				});
-
-				document.querySelectorAll('meta[data-i18n-meta]').forEach(function(el) {
-					var text = el.getAttribute('data-' + lang);
-					if (text !== null) {
-						el.setAttribute('content', text);
-					}
-				});
-
-				var titleEl = document.querySelector('title[data-i18n]');
-				if (titleEl) {
-					var titleText = titleEl.getAttribute('data-' + lang);
-					if (titleText) {
-						titleEl.textContent = titleText;
-					}
-				}
-
-				setYear();
-
-				var toggle = document.getElementById('langToggle');
-				if (toggle) {
-					toggle.textContent = (lang === 'vi') ? 'EN' : 'VI';
-				}
-			}
-
-			document.addEventListener('DOMContentLoaded', function() {
-				applyLang(currentLang);
-
-				var toggle = document.getElementById('langToggle');
-				if (toggle) {
-					toggle.addEventListener('click', function() {
-						currentLang = (currentLang === 'vi') ? 'en' : 'vi';
-						localStorage.setItem('siteLang', currentLang);
-						applyLang(currentLang);
-					});
-				}
-			});
-		})();
 	</script>
 	
 </body>
